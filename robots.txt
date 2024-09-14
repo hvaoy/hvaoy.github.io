@@ -1,0 +1,4 @@
+User-Agent: *
+Disallow: 
+
+Sitemap: https://hvaoy.github.io/nmx/sitemap.nmx.gz
